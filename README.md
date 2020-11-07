@@ -1,5 +1,18 @@
 # Tugas Pertemuan 7
 
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>labspy02</td>
+    <td><a href="https://github.com/OktovanAgung/labspy02.git">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>labpy03</td>
+    <td><a href="https://github.com/OktovanAgung/labpy03.git">Klik disini</td>
+  </tr>
+</table>
+
 ## LATIHAN 1
 
 ![gambar1](Latihan1/gambar/output1.png)
